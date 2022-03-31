@@ -17,7 +17,6 @@
 		DC7BD88422C7CA1E0046FFFA /* String+Sweeter.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC7BD87622C7CA1E0046FFFA /* String+Sweeter.swift */; };
 		DC7BD88522C7CA1E0046FFFA /* UIApplication+Sweeter.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC7BD87722C7CA1E0046FFFA /* UIApplication+Sweeter.swift */; };
 		DC7BD88622C7CA1E0046FFFA /* UITextView+Sweeter.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC7BD87822C7CA1E0046FFFA /* UITextView+Sweeter.swift */; };
-		DC7BD88722C7CA1E0046FFFA /* NSManagedObjectContext+Sweeter.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC7BD87922C7CA1E0046FFFA /* NSManagedObjectContext+Sweeter.swift */; };
 		DC7BD88822C7CA1E0046FFFA /* Bundle+Sweeter.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC7BD87A22C7CA1E0046FFFA /* Bundle+Sweeter.swift */; };
 		DC7BD88922C7CA1E0046FFFA /* Codable+Sweeter.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC7BD87B22C7CA1E0046FFFA /* Codable+Sweeter.swift */; };
 		DC7BD88A22C7CA1E0046FFFA /* Swift+Sweeter.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC7BD87C22C7CA1E0046FFFA /* Swift+Sweeter.swift */; };
@@ -58,7 +57,6 @@
 		DC7BD87622C7CA1E0046FFFA /* String+Sweeter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "String+Sweeter.swift"; sourceTree = "<group>"; };
 		DC7BD87722C7CA1E0046FFFA /* UIApplication+Sweeter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIApplication+Sweeter.swift"; sourceTree = "<group>"; };
 		DC7BD87822C7CA1E0046FFFA /* UITextView+Sweeter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UITextView+Sweeter.swift"; sourceTree = "<group>"; };
-		DC7BD87922C7CA1E0046FFFA /* NSManagedObjectContext+Sweeter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "NSManagedObjectContext+Sweeter.swift"; sourceTree = "<group>"; };
 		DC7BD87A22C7CA1E0046FFFA /* Bundle+Sweeter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Bundle+Sweeter.swift"; sourceTree = "<group>"; };
 		DC7BD87B22C7CA1E0046FFFA /* Codable+Sweeter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Codable+Sweeter.swift"; sourceTree = "<group>"; };
 		DC7BD87C22C7CA1E0046FFFA /* Swift+Sweeter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Swift+Sweeter.swift"; sourceTree = "<group>"; };
@@ -171,7 +169,6 @@
 				DC7BD87622C7CA1E0046FFFA /* String+Sweeter.swift */,
 				DC7BD87722C7CA1E0046FFFA /* UIApplication+Sweeter.swift */,
 				DC7BD87822C7CA1E0046FFFA /* UITextView+Sweeter.swift */,
-				DC7BD87922C7CA1E0046FFFA /* NSManagedObjectContext+Sweeter.swift */,
 				DC7BD87A22C7CA1E0046FFFA /* Bundle+Sweeter.swift */,
 				DC7BD87B22C7CA1E0046FFFA /* Codable+Sweeter.swift */,
 				DC7BD87C22C7CA1E0046FFFA /* Swift+Sweeter.swift */,
@@ -439,7 +436,6 @@
 				DC7BD88622C7CA1E0046FFFA /* UITextView+Sweeter.swift in Sources */,
 				DC7BD88822C7CA1E0046FFFA /* Bundle+Sweeter.swift in Sources */,
 				DC7BD88B22C7CA1E0046FFFA /* UIViewController+Sweeter.swift in Sources */,
-				DC7BD88722C7CA1E0046FFFA /* NSManagedObjectContext+Sweeter.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
